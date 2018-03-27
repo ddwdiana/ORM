@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ejbModule"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="con" path="oracle.eclipse.tools.glassfish.lib.system">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.utility"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_112">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Facultate/Master/Anul 1/Semestrul 2/ORM/glassfish4/glassfish/lib/appserv-rt.jar"/>
+	<classpathentry kind="lib" path="C:/Facultate/Master/Anul 1/Semestrul 2/ORM/glassfish4/glassfish/lib/gf-client.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+	<referencedentry kind="lib" path="C:/Facultate/Master/Anul 1/Semestrul 2/workspace/glassfish4/glassfish/modules/glassfish-corba-orb.jar"/>
+</classpath>
